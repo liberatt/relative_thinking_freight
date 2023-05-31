@@ -1,0 +1,144 @@
+
+My iris models
+===============================================================
+                                       Dependent variable:     
+                                  -----------------------------
+                                          freight_value        
+---------------------------------------------------------------
+price                                       -0.012***          
+                                            (0.0005)           
+                                                               
+distance                                    0.037***           
+                                            (0.0002)           
+                                                               
+weight_used                                 0.032***           
+                                            (0.0004)           
+                                                               
+renda_percapita                             -0.008***          
+                                            (0.0004)           
+                                                               
+bebes                                       -0.032***          
+                                             (0.007)           
+                                                               
+brinquedos                                  0.020***           
+                                             (0.005)           
+                                                               
+consoles_games                                0.001            
+                                             (0.007)           
+                                                               
+eletronicos                                 -0.030***          
+                                             (0.005)           
+                                                               
+fashion_bolsas_e_acessorios                  -0.003            
+                                             (0.007)           
+                                                               
+informatica_acessorios                       -0.008*           
+                                             (0.004)           
+                                                               
+moveis_decoracao                            -0.066***          
+                                             (0.005)           
+                                                               
+relogios_presentes                          0.066***           
+                                             (0.004)           
+                                                               
+utilidades_domesticas                       -0.038***          
+                                             (0.004)           
+                                                               
+automotivo                                  -0.012***          
+                                             (0.005)           
+                                                               
+beleza_saude                                 0.0003            
+                                             (0.003)           
+                                                               
+cama_mesa_banho                             -0.054***          
+                                             (0.004)           
+                                                               
+esporte_lazer                               -0.017***          
+                                             (0.004)           
+                                                               
+ferramentas_jardim                          -0.072***          
+                                             (0.006)           
+                                                               
+malas_acessorios                             -0.024            
+                                             (0.015)           
+                                                               
+moveis_escritorio                             0.041            
+                                             (0.042)           
+                                                               
+papelaria                                     0.008            
+                                             (0.007)           
+                                                               
+pet_shop                                     -0.012            
+                                             (0.008)           
+                                                               
+telefonia                                   -0.020***          
+                                             (0.004)           
+                                                               
+price:bebes                                 0.008***           
+                                             (0.002)           
+                                                               
+price:brinquedos                            -0.004***          
+                                             (0.001)           
+                                                               
+price:consoles_games                        -0.003**           
+                                             (0.002)           
+                                                               
+price:eletronicos                           0.008***           
+                                             (0.001)           
+                                                               
+price:fashion_bolsas_e_acessorios             0.001            
+                                             (0.002)           
+                                                               
+price:informatica_acessorios                 0.002**           
+                                             (0.001)           
+                                                               
+price:moveis_decoracao                      0.018***           
+                                             (0.001)           
+                                                               
+price:relogios_presentes                    -0.015***          
+                                             (0.001)           
+                                                               
+price:utilidades_domesticas                 0.011***           
+                                             (0.001)           
+                                                               
+price:automotivo                            0.004***           
+                                             (0.001)           
+                                                               
+price:beleza_saude                           0.0004            
+                                             (0.001)           
+                                                               
+price:cama_mesa_banho                       0.013***           
+                                             (0.001)           
+                                                               
+price:esporte_lazer                         0.005***           
+                                             (0.001)           
+                                                               
+price:ferramentas_jardim                    0.016***           
+                                             (0.001)           
+                                                               
+price:malas_acessorios                       0.006*            
+                                             (0.003)           
+                                                               
+price:moveis_escritorio                      -0.001            
+                                             (0.009)           
+                                                               
+price:papelaria                              -0.003*           
+                                             (0.002)           
+                                                               
+price:pet_shop                               0.003*            
+                                             (0.002)           
+                                                               
+price:telefonia                             0.004***           
+                                             (0.001)           
+                                                               
+Constant                                    4.207***           
+                                             (0.003)           
+                                                               
+---------------------------------------------------------------
+Observations                                 73,678            
+R2                                            0.518            
+Adjusted R2                                   0.518            
+Residual Std. Error                    0.044 (df = 73635)      
+F Statistic                       1,885.346*** (df = 42; 73635)
+===============================================================
+Note:                               *p<0.1; **p<0.05; ***p<0.01
